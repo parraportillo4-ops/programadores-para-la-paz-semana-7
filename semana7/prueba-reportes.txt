@@ -1,0 +1,17 @@
+Luego de hacer POST de:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Al hacer get consulto: 
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Entonces se logro crear un registro y luego lo recupere con su 
+identificador único.

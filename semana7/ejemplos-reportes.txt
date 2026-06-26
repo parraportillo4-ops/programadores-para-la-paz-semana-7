@@ -1,0 +1,13 @@
+Cree los reportes:
+
+Ejemplo 1:
+{
+  "tipo": "Trafico",
+  "descripcion": "Acumulación de autos en una zona comunitaria"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ganadería",
+  "descripcion": "Problemas de ganado en alguna finca de la comunidad"
+}
